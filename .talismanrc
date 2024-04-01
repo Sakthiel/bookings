@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: templates/base.layout.gohtml
+  checksum: a951c41edefea4f6be8c8b258aa36864f3f3c03c227f3acac9bfc6ad31c8e186
+- filename: go.sum
+  checksum: a6a0ff5d1171987871a6c48f906fb56c89a1e9d48c2e9cb0e127d70a0845c5b9
+version: ""
